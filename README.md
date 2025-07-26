@@ -15,3 +15,4 @@ The main goal of this module is to detect the presence of **fire or smoke** in i
 
 week1.ipynb file need to install necessory packages
 provided 3 datasets
+week2 file is renamed as edunet.ipynb and intall necessory packages to execute the file as data sets are already provided
